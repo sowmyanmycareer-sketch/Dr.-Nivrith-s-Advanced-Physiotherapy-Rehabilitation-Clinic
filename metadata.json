@@ -1,0 +1,7 @@
+{
+  "name": "Dr. Nivrith’s Advanced Physiotherapy & Rehabilitation Clinic",
+  "description": "Premier physiotherapy and rehabilitation clinic in GM Palya, C V Raman Nagar, Bengaluru. Featuring interactive 3D human anatomy & joint pain explorer, targeted recovery protocols, patient reviews, and instant appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
